@@ -1,6 +1,7 @@
 backend:
     name: github
-    branch: theodorusclarence/learning-netlify-cms
+    repo: theodorusclarence/learning-netlify-cms
+    branch: master
     commit_messages:
         create: 'Create {{collection}} “{{slug}}”'
         update: 'Update {{collection}} “{{slug}}”'
